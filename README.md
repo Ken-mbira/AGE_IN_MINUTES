@@ -1,18 +1,18 @@
-#AGE IN MINUTES
+# AGE IN MINUTES
 An android application that calculates the minutes from a date in history...
 
-##CONTRIBUTORS
+## CONTRIBUTORS
 1. Ken Mbira
 
-##TECHNOLOGIES USED
+## TECHNOLOGIES USED
 1. Kotlin
 2. Android Studio
 
-##DEPENDENCIES
+## DEPENDENCIES
 Android Studio
 Kotlin
 
-##SET UP INSTRUCTIONS
+## SET UP INSTRUCTIONS
 To have the application running on your machine:
 1. Download and install [Android Studio](https://developer.android.com/studio)
 2. Clone this repo inside your computer
@@ -20,10 +20,10 @@ To have the application running on your machine:
 
 The next step will depend on whether your comfortable running an emulator or you would 
 rather use a phone for development.
-####Emulator
+#### Emulator
 4. Install a virtual device from device manager
 5. Run the application by clicking <code>run</code> on the top of the ide's screen
-####Android Phone
+#### Android Phone
 4. Ensure you have enabled developer options on your phone... if not click [here](https://developer.android.com/studio/debug/dev-options)
 5. Connect your android device with a usb cable to your computer and choose your device from the devices section. Then click <code>run</code>.
 
